@@ -1,0 +1,20 @@
+.not-found-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  height: 400px;
+  width: 400px;
+}
+.nf-title {
+  color: #475569;
+  font-family: Roboto;
+}
+.nf-description {
+  color: #64748b;
+  font-family: Roboto;
+}
